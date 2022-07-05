@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+}
+.top-banner{
+    background-image: url(images/donation99.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    size: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.top-banner h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 70px;
+}
+.top-banner p{
+    margin-top: -20px;
+    margin-bottom: 70px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Roboto Slab', serif;   
+}
+a{
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 22px;
+}
+.help-us-sec{
+    margin-top: 100px;
+}
+.help-us-text{
+
+    text-align: center;
+}
+.help-us-text h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.help-us-text p{
+    margin-top: -20px;
+    color: gray;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.donate{
+    display: flex;
+    margin-left: 280px; 
+}
+.donate .same{
+    margin-left: 20px;
+    background-color: #F7F9F9;
+    border-radius: 5px;
+    padding: 40px 40px;
+    color: #7B7D7D;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+#red-tk{
+    border: 3px solid tomato;
+    border-radius: 5px;
+    margin-left: 20px;
+    background-color: #FDEDEC;
+    padding: 40px 40px;
+    color: tomato;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.donate-now{
+    margin-top: 40px;
+}
+.donate-now input{
+    border: none;
+    margin-left: 689px;
+}
+::placeholder{
+    font-size: 17px;
+}
+hr{
+    width: 800px;
+    margin-bottom: 40px;
+}
+.donate-btn{
+    margin-left: 676px;
+}
