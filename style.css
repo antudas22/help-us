@@ -94,3 +94,110 @@ hr{
 .donate-btn{
     margin-left: 676px;
 }
+.our-plan-sec{
+    margin-top: 100px;
+    width: 100%;
+}
+.our-plan-text{
+    text-align: center;
+}
+.our-plan-text h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.our-plan-text p{
+    margin-top: -20px;
+    color: gray;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.plan-description{
+    margin-top: 50px;
+    display: flex;
+    width: 80%;
+    margin-left: 139px;
+}
+.donate-items {
+    margin-left: 25px;
+    padding: 50px 20px;
+}
+.first{
+    background-color: #F4ECF7;
+}
+.second{
+    background-color: #FDF2E9;
+}
+.third{
+    background-color: #EBF5FB;
+}
+.donate-items h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+.donate-items p{
+    color: #7B7D7D;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.helping-hand-sec{
+    display: flex;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 125px;
+}
+.helping-text{
+    width: 50%;
+    padding: 50px;
+}
+.helping-text h3{
+    color: #F1C40F;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+}
+.helping-text h2{
+    margin-top: -15px;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+.helping-text  p{
+    margin-top: -10px;
+    color: #7B7D7D;
+    font-family: 'Roboto Slab', serif;
+    font-size: 13px;
+    font-weight: 300;
+}
+.production1{
+    display: flex;
+}
+.production2{
+    display: flex;
+}
+.first-production{
+    margin-top: 30px;
+    padding-right: 100px;
+}
+.second-production{
+    margin-top: 30px;
+    padding-right: 70px;
+}
+.first-production h2{
+    font-family: 'Roboto Slab', serif;
+}
+.first-production p{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.second-production p{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    font-weight: 500;
+}
