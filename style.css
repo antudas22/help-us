@@ -201,3 +201,62 @@ hr{
     font-size: 15px;
     font-weight: 500;
 }
+.update-part{
+    text-align: center;
+    margin-top: 70px;
+}
+.update-part h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.update-part p{
+    margin-top: -20px;
+    color: gray;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 150px;
+}
+.subscribe-part{
+    padding: 100px 200px;
+    background-color: #FDF2E9;
+    display: inline;
+    margin-left: 330px;
+}
+.subscribe-part input{
+    border: none;
+    background-color: #D7DBDD;
+    border-radius: 5px;
+    width: 250px;
+    padding: 12px;
+}
+.subscribe-part button{
+    color: white;
+    background-color: tomato;
+    margin-left: -4px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 50px;
+    font-size: 17px;
+}
+footer{
+    text-align: center;
+    margin-top: 200px;
+    height: 200px;
+    background-color: black;
+}
+footer h2{
+    padding-top: 50px;
+    color: tomato;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+footer  p{
+    margin-top: -10px;
+    color: silver;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    font-weight: 300;
+}
